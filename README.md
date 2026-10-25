@@ -1,8 +1,8 @@
-# 🍃 Leaf
+# Lepo
 
 A multi-framework Discord bot designed using both **Bot Designer for Discord (BDFD / BDJS)** and **Python**. This bot is ready to deploy on your server, and its source code serves as a great reference for building your own Discord bots!
 
-[![Python Version](https://img.shields.io/badge/Python-Version-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/Sumit282698/Leafx1.1)
+[![Python Version](https://img.shields.io/badge/Python-Version-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/Sumitx5/lepo_py)
 [![Framework](https://img.shields.io/badge/Bot%20Designer-BDFD%20%2F%20BDJS-orange?style=flat-square)](https://botdesignerdiscord.com/)
 
 ---
@@ -13,7 +13,7 @@ This project is split into two implementations so you can choose or learn from y
 
 * **BDFD / BDJS Version:** The original mobile/web framework design.
 * **Python Version:** A modular rewrite of the bot. 
-    * 👉 **[Click Here to View the Python Source Code](https://github.com/Sumit282698/Leafx1.1)**
+    * 👉 **[Click Here to View the Python Source Code](https://github.com/Sumitx5/lepo_py)**
 
 ---
 
@@ -35,4 +35,5 @@ The default prefix for Leaf is `!`.
 
 To get help with commands directly inside your Discord server, simply type:
 ```text
-!help
+   !help
+```
